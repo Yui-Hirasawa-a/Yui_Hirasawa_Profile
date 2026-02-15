@@ -7,7 +7,7 @@
 
 <!-- ================= ЦЕНТРАЛЬНИЙ МОНОШРИФТ З Анімацією ================= -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code+SemiBold&size=32&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&height=80&lines=Yuki+Takuto;Developer+|+Cybersecurity+Learner;Game+Creator+|+PPFC+student" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code+SemiBold&size=32&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&height=80&lines=𝕐𝕦𝕚+ℍ𝕚𝕣𝕒𝕤𝕒𝕨𝕒;Developer+|+Cybersecurity+Learner;Game+Creator+|+PPFC+student" />
 </div>
 <br/>
 
