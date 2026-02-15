@@ -1,6 +1,6 @@
 <!-- ================= БАНЕР ================= -->
 <div align="center">
-  <img src="Banner.png" width="100%" alt="Yuki Setup" style="border-radius: 16px;"/>
+  <img src="Banner.jpg" width="100%" alt="Yuki Setup" style="border-radius: 16px;"/>
 </div>
 
 <br/>
