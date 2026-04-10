@@ -65,24 +65,25 @@
 
 <br/>
 <h2 align="center">🎇 Поточні проєкти</h2>
+<details>
+  <summary><strong>JDM_Auto</strong></summary>
+  <blockquote>
+    Проєкт які планую розвивати все далі і далі щоб презентувати на курсовому
+    . Суть проєкту: Сучасний сайт для українських фанатів японського автопрому, де ви зможете знайти для себе цікаві екземпляри і якщо є бажання купити авто.
+  </blockquote>
+</details>
 
 <details>
   <summary><strong>PolytechXXX</strong></summary>
   <blockquote>
-    Не було мені з Андрійом чим занятись. Пішли робити сайт для нашої групи, а точніше щоденник. "Палучілась хуйня".
-  </blockquote>
-</details>
-<details>
-  <summary><strong>Скоро буде...</strong></summary>
-  <blockquote>
-    На канікулах попробую або сам або з кимось сайт зробити. Ще тему не придумав...
+    Не було мені з Андрійом чим занятись. Пішли робити електронний журнал для групи. "Палучілась хуйня". Просто закинули хоча 70% роботи було виконано(
   </blockquote>
 </details>
 <br/>
 
 <h2 align="center">📊 Статистика GitHub</h2>
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Armageddon222&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yui-Hirasawa-a&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
 </div>
 
 
@@ -91,10 +92,6 @@
 <h2 align="center">👁‍🗨 Контакти</h2>
 
 <div align="center">
-  <!-- TikTok -->
-  <a href="https://www.tiktok.com/@armageddon_off/" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-  </a>
 
   <!-- Steam -->
   <a href="https://steamcommunity.com/profiles/76561199061524399/" target="_blank">
@@ -104,11 +101,6 @@
   <!-- Discord -->
   <a href="https://discord.com/users/882216781798838373" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-
-  <!-- Telegram -->
-  <a href="https://t.me/@Yuki_Takuto" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
 
